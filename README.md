@@ -1,4 +1,4 @@
-﻿# 🚖 OLA Data Analyst Project Power BI & SQL
+# 🚖 OLA Data Analyst Project Power BI & SQL
 
 The OLA Data Analyst Project analyzes ride-booking data using SQL and Power BI to track ride volumes, customer behavior, and driver performance. It focuses on booking statuses, revenue breakdowns by payment method, and top customers. SQL queries are used to calculate ride statistics, and the final Power BI dashboard visualizes key data, including ride volumes, vehicle performance, and sales. The analysis helps optimize OLA's services by identifying trends and areas for improvement.
 
@@ -334,7 +334,13 @@ This project includes an `Ola DA Project SQL.sql` file containing all the SQL qu
 
 This file simplifies setting up the project and ensures all queries and views are executed in a single step.
 
+
+</details>
+
 ---
+
+<details>
+    <summary>Power BI 📈</summary>
 
 # OLA Data Analysis in Power BI 📊
 
@@ -486,6 +492,10 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 2. Open the file in **Power BI Desktop**.
 3. Explore the dashboards and insights interactively.
 
+
+
+</details>
+
 ---
 
 ## Contact 📧
@@ -495,9 +505,9 @@ For any queries or feedback, feel free to reach out:
 - **Name**: Sahaj Pareek
 - **Email**: prksahaj@gmail.com
 
+
 ## 🙌 Acknowledgments
 
 A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
-
 
 
