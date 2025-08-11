@@ -334,20 +334,7 @@ This project includes an `Ola DA Project SQL.sql` file containing all the SQL qu
 
 This file simplifies setting up the project and ensures all queries and views are executed in a single step.
 
-## File Details 📁
-
-- **File Name**: `Ola DA Project SQL.sql` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project%20SQL.sql)
-- **Size**: `4 KB`
-
-- **File Name**: `Bookings.csv` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
-- **Size**: `15.5 MB`
-
-</details>
-
 ---
-
-<details>
-    <summary>Power BI 📈</summary>
 
 # OLA Data Analysis in Power BI 📊
 
@@ -512,5 +499,5 @@ For any queries or feedback, feel free to reach out:
 
 A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
 
-[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwalgpa)
+
 
